@@ -1,4 +1,5 @@
-dockerfileFROM n8nio/n8n:latest
+dockerfile
+FROM n8nio/n8n:latest
 
 # Set environment variables
 ENV N8N_HOST=0.0.0.0
